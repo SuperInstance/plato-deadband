@@ -1,5 +1,11 @@
 [package]
 name = "plato-deadband"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.75"
+description = "Deadband Protocol engine — P0 rock / P1 channel / P2 optimize priority governance with urgency scaling"
+license = "MIT"
+repository = "https://github.com/SuperInstance/plato-deadband"
+readme = "README.md"
+
+[dependencies]
